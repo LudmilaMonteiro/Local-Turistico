@@ -3,6 +3,10 @@
 Projeto desenvolvido com HTML e CSS em um layout do Figma.
 
 
+## 🌐 Projeto Online
+Acesse aqui: 
+  👉 https://ludmilamonteiro.github.io/Local-Turistico/
+
 ## 📌 Objetivo
 Criar uma página web apresentando pontos turísticos da cidade de Busan, seguindo boas práticas de HTML semântico e estilização com CSS.
 
