@@ -2,6 +2,11 @@
 
 Projeto desenvolvido com HTML e CSS em um layout do Figma.
 
+## 🎨 Layout
+
+<img src="./Assets/Layout.png" alt="Preview do projeto parte 1">
+<img src="./Assets/Layout2.png" alt="Preview do projeto parte 2">
+
 
 ## 🌐 Projeto Online
 Acesse aqui: 
